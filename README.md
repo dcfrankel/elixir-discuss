@@ -1,1 +1,1 @@
-Basic Elixir Phoenix app taken from a Udemy Elixir course
+Basic Phoenix framework web app written in Elixir taken from the Udemy `The Complete Elixir and Phoenix Bootcamp` course
